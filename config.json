@@ -1,0 +1,9 @@
+{
+    "params":
+    {
+        "local_uri": "mysql://root:123456@localhost/arvs_mock" ,
+        "prod_uri": "mysql://root:123456@localhost/arvs_mock" ,
+        "gmail_user":"rohanjawale2408@gmail.com",
+        "gmail_pass":"1234"
+    }
+}
